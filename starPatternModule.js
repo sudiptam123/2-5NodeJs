@@ -1,3 +1,4 @@
+/* cerner_2^5_2020 */
 exports.starPattern = function () {
   let star = '';
   for(let i=0; i<10; i++){
